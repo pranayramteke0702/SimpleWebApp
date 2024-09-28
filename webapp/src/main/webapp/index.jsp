@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Diwlai sale is live from 10AM to 6PM **** </h1>   
+         <h1> **** Iphone 16 sale is live **** </h1>   
 	 
 
     </section>    
