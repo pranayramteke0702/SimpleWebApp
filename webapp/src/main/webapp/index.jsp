@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Diwali sale is live**** </h1>   
+         <h1> **** Welcome too hydrabad**** </h1>   
 	 
 
     </section>    
