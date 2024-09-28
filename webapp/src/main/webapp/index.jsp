@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Diwali sale is live</title>
+    <title>Flipkart shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Docker is very advanced tool.......... **** </h1>   
+         <h1> **** Diwlai sale is live from 10AM to 6PM **** </h1>   
 	 
 
     </section>    
