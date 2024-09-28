@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Flipkart is a very good platform **** </h1>   
+         <h1> **** Diwali sale is live**** </h1>   
 	 
 
     </section>    
