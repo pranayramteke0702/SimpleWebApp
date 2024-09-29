@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Welcome too hydrabad**** </h1>   
+         <h1> **** Sale is about to end in 1 hours **** </h1>   
 	 
 
     </section>    
